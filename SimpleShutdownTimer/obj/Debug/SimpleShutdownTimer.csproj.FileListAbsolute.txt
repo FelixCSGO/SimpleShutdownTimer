@@ -9,4 +9,4 @@ C:\Users\Zach\Documents\Visual Studio 2015\Projects\SimpleShutdownTimer\SimpleSh
 C:\Users\Zach\Documents\Visual Studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.help_Form.resources
 C:\Users\Zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.AboutBox1.resources
 C:\Users\Zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.Form3.resources
-C:\Users\Zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.custom_Form.resources
+C:\Users\Zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.customTimer_Form.resources
