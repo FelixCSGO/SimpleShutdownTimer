@@ -1,0 +1,12 @@
+c:\users\zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\bin\Debug\SimpleShutdownTimer.exe
+c:\users\zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\bin\Debug\SimpleShutdownTimer.pdb
+c:\users\zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.csprojResolveAssemblyReference.cache
+c:\users\zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.Properties.Resources.resources
+c:\users\zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.csproj.GenerateResource.Cache
+c:\users\zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.exe
+c:\users\zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.pdb
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.simpleShutDownTimer.resources
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.help_Form.resources
+C:\Users\Zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.AboutBox1.resources
+C:\Users\Zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.Form3.resources
+C:\Users\Zach\documents\visual studio 2015\Projects\SimpleShutdownTimer\SimpleShutdownTimer\obj\Debug\SimpleShutdownTimer.custom_Form.resources
